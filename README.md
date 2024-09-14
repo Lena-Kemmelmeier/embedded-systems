@@ -9,5 +9,5 @@ Code and write-ups for implementing field programmable gate arrays, microcontrol
 * Lab 4 (Timers): lkemmelmeier_cpe301_lab4 directory containing lkemmelmeier_cpe301_1104_lab4.pdf and lkemmelmeier_lab4.ino
 * Lab 5 (UART): lkemmelmeier_cpe301_lab5 directory containing lkemmelmeier_cpe301_1104_lab5.pdf and lkemmelmeier_lab5.ino
 * Lab 6 (LCD heart game): lkemmelmeier_cpe301_lab6 directory containing lkemmelmeier_cpe301_1104_lab6.pdf and lkemmelmeier_lab6.ino
-* Lab 7 (Analog to digital converstions): lkemmelmeier_cpe301_lab7 directory containing lkemmelmeier_cpe301_1104_lab7.pdf and lkemmelmeier_lab7.ino
+* Lab 7 (Analog to digital): lkemmelmeier_cpe301_lab7 directory containing lkemmelmeier_cpe301_1104_lab7.pdf and lkemmelmeier_lab7.ino
 * Lab 8 (ISR): lkemmelmeier_cpe301_lab8 directory containing lkemmelmeier_cpe301_1104_lab8.pdf and lkemmelmeier_lab8.ino
